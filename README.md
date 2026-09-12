@@ -31,6 +31,12 @@ The pipeline is roughly: clean the source → rename variables to random Chinese
 python neo.py -f your_script.py -o output.py
 ```
 
+Or
+
+```
+python neo.py
+```
+
 Options:
 
 | Flag | Meaning |
